@@ -1,3 +1,7 @@
+
+cd openwrt && make menuconfig
+
+
 # MI-R4A-breed-openwrt and MI-MINI-Openwrt
 
 感谢[coolsnowwolf](https://github.com/coolsnowwolf/lede)的仓库
